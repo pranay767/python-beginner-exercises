@@ -6,6 +6,6 @@ def is_even(num):
 
 num = 236
 if is_even(num):
-    print("It is even")
+    print(num, "is even")
 else:
-    print("It is odd")
+    print(num, "is odd")
