@@ -13,10 +13,6 @@ gcd(48,14) = gcd(14,6)
            = 2
 
 56 : 1,2,4,7,8,14,28,56
-there are shortcuts wherever u go, for isntance ficnfing the diviros of a number only uptil half that num u can check
-and also... like u already know 14 might divite 56 coz ...4*4 =16... 6 being the last digit
-also 15 can never divide 56 coz 5 table only 0and 5
-to find out more]
 
 given a number can i already know hpw many divisors itll have?
 say 56 ---. it has 8 divisors.. does the latter have anything to do with the former?
