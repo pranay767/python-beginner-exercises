@@ -8,7 +8,8 @@ def reverse(num):
         num = num // 10
     return reversed_num
 
-print(reverse(123))
+if __name__ == "__main__":
+    print(reverse(123))
 
 # string slicing
 # digits = "123456789"
