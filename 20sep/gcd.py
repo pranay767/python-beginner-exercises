@@ -7,7 +7,6 @@ def gcd(num1, num2): #recursive function
 print(gcd(14,48))
 
 '''
-
 gcd(48,14) = gcd(14,6)
            = gcd(6,2)
            = 2
